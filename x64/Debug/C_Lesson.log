@@ -1,0 +1,3 @@
+﻿  C_Lesson.cpp
+C:\Users\cefat\source\repos\C_Lesson\C_Lesson\C_Lesson.cpp(82,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  C_Lesson.vcxproj -> C:\Users\cefat\source\repos\C_Lesson\x64\Debug\C_Lesson.exe
