@@ -1,4 +1,0 @@
-C_Lesson.vcxproj
-C_Lesson.vcxproj.filters
-C_Lesson.vcxproj.user
-x64
